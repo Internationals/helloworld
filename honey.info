@@ -6,3 +6,14 @@
 	},
 	"Email":"pvahan4657@my.sullivan.edu"
 }
+{
+
+	"Address":
+	{
+		"Street":"Bardstown Rd",
+		"StNum":"3301",
+		"City":"Louisville",
+		"Zip":"40205"
+	}
+		
+}		
